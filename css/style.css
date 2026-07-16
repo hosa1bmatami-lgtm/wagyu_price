@@ -19,14 +19,6 @@ p {
   border-radius: 0;
 }
 
-.card-deck row{
-  margin-top: 80px;
-  gap: 10px;
-  display:flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
 .content-width {
   max-width: 1200px;
   margin: 0 auto;
